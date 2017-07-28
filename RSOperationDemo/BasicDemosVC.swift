@@ -100,7 +100,6 @@ extension BasicDemosVC {
         
         DispatchQueue.global().async {
             [weak self] in
-            
             // 主线程停止刷新器。
             self?.operationQueue.waitUntilAllOperationsAreFinished()
             DispatchQueue.main.async {
