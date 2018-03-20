@@ -9,7 +9,7 @@ Swift实现的Operation多线程方法Demo
 
 | 名称 |1.列表页 |2.展示页 |3.展示页 |
 | ------------- | ------------- | ------------- | ------------- |
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-28/96958186.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-28/8976621.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-28/24523335.jpg) |
+| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/97364743.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/73732357.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/62310492.jpg) |
 | 描述 | 通过 storyboard 搭建基本框架 | 加载使用方法 | 封装使用方法 |
 
 
