@@ -437,7 +437,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				DEVELOPMENT_TEAM = 7QT42R489Z;
 				INFOPLIST_FILE = RSOperationDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -451,7 +450,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				DEVELOPMENT_TEAM = 7QT42R489Z;
 				INFOPLIST_FILE = RSOperationDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -534,6 +532,7 @@
 				34F659AD1F2AE74A00297AF4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		34F659AE1F2AE74A00297AF4 /* Build configuration list for PBXNativeTarget "RSOperationDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -542,6 +541,7 @@
 				34F659B01F2AE74A00297AF4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		34F659B11F2AE74A00297AF4 /* Build configuration list for PBXNativeTarget "RSOperationDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -550,6 +550,7 @@
 				34F659B31F2AE74A00297AF4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
