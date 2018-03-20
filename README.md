@@ -7,10 +7,10 @@ Swift实现的Operation多线程方法Demo
 
 在之前的YYWebImageDemo实现中，展示了OC的多线程加载方法，这里来总结Swift的Operation多线程方法，借鉴制作Demo。
 
-| 名称 |1.列表页 |2.展示页 |3.展示页 |
-| ------------- | ------------- | ------------- | ------------- |
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/97364743.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/73732357.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/62310492.jpg) |
-| 描述 | 通过 storyboard 搭建基本框架 | 加载使用方法 | 封装使用方法 |
+|1.列表页 |2.展示页 |3.展示页 |
+| ------------- | ------------- | ------------- |
+| ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/97364743.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/73732357.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/62310492.jpg) |
+| 通过 storyboard 搭建基本框架 | 加载使用方法 | 封装使用方法 |
 
 
 ## Advantage 框架的优势
