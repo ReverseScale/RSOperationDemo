@@ -11,7 +11,7 @@ In the previous YYWebImageDemo implementation, OC multi-threaded loading method 
 
 |1.List page | 2.Show page | 3.Show page |
 | ------------- | ------------- | ------------- |
-| ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/97364743.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/73732357.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/62310492.jpg) |
+| ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/10231888.jpg) | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/33040799.jpg) | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/83615963.jpg) |
 | Build the basic framework through storyboard | Load usage method | Package use method |
 
 ## 🤖 Requirements
